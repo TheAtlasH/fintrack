@@ -1,4 +1,4 @@
-## Spectra Bank - Login Details
+## Fintrack Bank - Login Details
 
 ### Account 1:
 
