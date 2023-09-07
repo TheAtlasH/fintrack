@@ -145,7 +145,7 @@ if(currentAccount?.password === Number(inputLoginPassword.value)){
   setTimeout(() => {
 
       // Display UI and welcome
-      labelWelcome.textContent = `Welcome back, ${currentAccount.owner.split(" ").at(0)}`;
+      labelWelcome.textContent = `Welcome back, ${currentAccount.owner.split(" ")[0]}`;
       containerApp.style.opacity = 1;
 
       // Display date and time
